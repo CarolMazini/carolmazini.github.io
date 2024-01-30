@@ -49,9 +49,31 @@
       "institution": "ESIEE Paris (Université Gustave Eiffel)",
       "location": "Noisy-le-Grand, France",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Explainable Artificial Intelligence",
       "studyType": "PhD",
       "startDate": "2020-10-21",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    }
+    {
+      "institution": "Universidade Estadual de Campinas (Unicamp)",
+      "location": "Campinas, Brazil",
+      "url": "https://www.uzh.ch/",
+      "area": "Machine Learning",
+      "studyType": "Msc",
+      "startDate": "2018-02-01",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    }
+{
+      "institution": "Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)",
+      "location": "President Prudente, Brazil",
+      "url": "https://www.uzh.ch/",
+      "area": "",
+      "studyType": "Bachelor",
+      "startDate": "2013-02-01",
       "endDate": "",
       "score": "",
       "courses": [""]
