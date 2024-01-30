@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Caroline Mazini Rodrigues
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th August 1995
     - name: Languages
-      value: English, German
+      value: English, French, Portuguese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: ESIEE Paris (Université Gustave Eiffel), Noisy-le-Grand, France
+      year: 2020 --
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc
+      institution: Universidade Estadual de Campinas (Unicamp), Campinas, Brazil
+      year: 2018 -- 2020
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Bachelor
+      institution: Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP), President Prudente, Brazil
+      year: 2013 -- 2017
       description:
         - Description 1.
         - Description 2.
