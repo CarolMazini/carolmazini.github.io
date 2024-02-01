@@ -30,25 +30,23 @@
       "endDate": "1955-01-01",
       "summary": "",
       "highlights": ["Teaching"]
+    },
+{
+      "name": "NeuralMind",
+      "position": "Data Scientist",
+      "startDate": "2020-03-01",
+      "endDate": "2020-09-01",
+      "summary": "",
+      "highlights": ["Deep Learning"]
     }
 
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+
   ],
   "education": [
     {
       "institution": "ESIEE Paris (Université Gustave Eiffel)",
       "location": "Noisy-le-Grand, France",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.esiee.fr/",
       "area": "Explainable Artificial Intelligence",
       "studyType": "PhD",
       "startDate": "2020-10-21",
@@ -59,22 +57,22 @@
     {
       "institution": "Universidade Estadual de Campinas (Unicamp)",
       "location": "Campinas, Brazil",
-      "url": "https://www.uzh.ch/",
+      "url": "https://ic.unicamp.br/en/",
       "area": "Machine Learning",
       "studyType": "Msc",
       "startDate": "2018-02-01",
-      "endDate": "",
+      "endDate": "2020-08-01",
       "score": "",
       "courses": [""]
     },
 {
       "institution": "Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)",
       "location": "President Prudente, Brazil",
-      "url": "https://www.uzh.ch/",
-      "area": "",
+      "url": "https://www.fct.unesp.br/",
+      "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "2013-02-01",
-      "endDate": "",
+      "endDate": "2017-08-01",
       "score": "",
       "courses": [""]
     }
@@ -157,22 +155,29 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Computer Science",
+      "level": "PhD",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Explainable Artificial Intelligence",
+        "Deep Learning",
+	"Computer Vision"
+      ]
+    },
+     {
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Pytorch/Tensorflow",
+	"C"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -180,42 +185,69 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Intermadiate",
+      "icon": ""
+    },
+     {
+      "language": "Spanish",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Interpretability",
+        "Explainability",
+        "Deep Learning",
+	"Representation Learning",
+        "Feature Engineering",
+        "Supervised / Unsupervised / Semi-supervised Learning"
+      ]
+    },
+   {
+      "name": "Data Mining",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Image analysis",
+        "Pattern Recognition"
+      ]
+    },
+{
+      "name": "Information Retrieval",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Content-Based Image Retrieval",
+	"Ranking Aggregation", 
+	"Contextual Rankings"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Laurent Najman",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "PhD supervisor"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Nicolas Boutry",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "reference": "PhD supervisor"
+    },
+{
+      "name": "Professor Zanoni Dias",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "MSc supervisor"
+    },
+{
+      "name": "Professor Anderson Rocha",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "MSc supervisor"
     }
   ]
 }
