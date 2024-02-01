@@ -26,16 +26,16 @@
     {
       "name": "Université Gustave Eiffel",
       "position": "Attaché temporaire d'enseignement et de recherche (ATER)",
-      "startDate": "2023-10-01",
-      "endDate": "1955-01-01",
+      "startDate": "23-10",
+      "endDate": "",
       "summary": "",
       "highlights": ["Teaching"]
     },
 {
       "name": "NeuralMind",
       "position": "Data Scientist",
-      "startDate": "2020-03-01",
-      "endDate": "2020-09-01",
+      "startDate": "20-03",
+      "endDate": "20-09",
       "summary": "",
       "highlights": ["Deep Learning"]
     }
@@ -45,45 +45,50 @@
   "education": [
     {
       "institution": "ESIEE Paris (Université Gustave Eiffel)",
-      "location": "Noisy-le-Grand, France",
+      "location": "France",
       "url": "https://www.esiee.fr/",
       "area": "Explainable Artificial Intelligence",
       "studyType": "PhD",
-      "startDate": "2020-10-21",
+      "startDate": "20-10",
       "endDate": "",
       "score": "",
       "courses": [""]
     },
     {
       "institution": "Universidade Estadual de Campinas (Unicamp)",
-      "location": "Campinas, Brazil",
+      "location": "Brazil",
       "url": "https://ic.unicamp.br/en/",
       "area": "Machine Learning",
       "studyType": "Msc",
-      "startDate": "2018-02-01",
-      "endDate": "2020-08-01",
+      "startDate": "18-02",
+      "endDate": "20-08",
       "score": "",
       "courses": [""]
     },
 {
       "institution": "Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)",
-      "location": "President Prudente, Brazil",
+      "location": "Brazil",
       "url": "https://www.fct.unesp.br/",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2013-02-01",
-      "endDate": "2017-08-01",
+      "startDate": "13-02",
+      "endDate": "17-08",
       "score": "",
       "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best presentation",
+      "date": "2021-06",
+      "awarder": "Journée des doctorants MSTIC",
+      "summary": ""
+    },
+    {
+      "title": "Academic Merit",
+      "date": "2017-08-01",
+      "awarder": "Faculdade de Ciência e Tecnologia – UNESP",
+      "summary": ""
     }
   ],
   "certificates": [
@@ -211,7 +216,7 @@
       ]
     },
    {
-      "name": "Data Mining",
+      "name": "Image Processing",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Image analysis",
@@ -231,23 +236,23 @@
   "references": [
     {
       "name": "Professor Laurent Najman",
-      "icon": "fa-solid fa-laptop",
-      "reference": "PhD supervisor"
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "LIGM - Université Gustave Eiffel (PhD supervisor)"
     },
     {
       "name": "Nicolas Boutry",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "PhD supervisor"
+      "reference": "LRE - EPITA (PhD supervisor)"
     },
 {
       "name": "Professor Zanoni Dias",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "MSc supervisor"
+      "reference": "IC -Unicamp (MSc supervisor)"
     },
 {
       "name": "Professor Anderson Rocha",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "MSc supervisor"
+      "reference": "IC - Unicamp (MSc supervisor)"
     }
   ]
 }
