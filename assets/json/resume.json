@@ -26,7 +26,7 @@
     {
       "name": "Université Gustave Eiffel",
       "position": "Attaché temporaire d'enseignement et de recherche (ATER)",
-      "startDate": "10-2023",
+      "startDate": "2023",
       "endDate": "",
       "summary": "",
       "highlights": ["Teaching"]
@@ -49,7 +49,7 @@
       "url": "https://www.esiee.fr/",
       "area": "Explainable Artificial Intelligence",
       "studyType": "PhD",
-      "startDate": "10-2020",
+      "startDate": "2020",
       "endDate": "",
       "score": "",
       "courses": [""]
@@ -60,8 +60,8 @@
       "url": "https://ic.unicamp.br/en/",
       "area": "Machine Learning",
       "studyType": "Msc",
-      "startDate": "02-2018",
-      "endDate": "08-2020",
+      "startDate": "2018",
+      "endDate": "2020",
       "score": "",
       "courses": [""]
     },
@@ -71,8 +71,8 @@
       "url": "https://www.fct.unesp.br/",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "02-2013",
-      "endDate": "08-2017",
+      "startDate": "2013",
+      "endDate": "2017",
       "score": "",
       "courses": [""]
     }
@@ -89,50 +89,6 @@
       "date": "08-2017",
       "awarder": "Faculdade de Ciência e Tecnologia – UNESP",
       "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -162,7 +118,7 @@
       "publisher": "IEEE",
       "releaseDate": "2021",
       "url": "https://ieeexplore.ieee.org/abstract/document/9393928",
-      "summary": "we extend upon our prior work and present a learning-from-data method for dynamically learning the contribution of different components for a more effective event representation. The method relies upon just a few training samples (few-shot learning), which can be easily provided by an investigator."
+      "summary": "We extend upon our prior work and present a learning-from-data method for dynamically learning the contribution of different components for a more effective event representation. The method relies upon just a few training samples (few-shot learning), which can be easily provided by an investigator."
     },
 
  {
@@ -178,7 +134,7 @@
       "publisher": "IEEE",
       "releaseDate": "2019",
       "url": "https://ieeexplore.ieee.org/abstract/document/9035102",
-      "summary": " we propose an image semantic representation method that helps to understand the discrimination of Representative Images (RI) from Non-representative Images (NRI). Our method, called Event Semantic Space (ESS), generates a low-dimensional image representation by exploiting the semantics of some images with high representativeness and some representative components of the events (e.g., places, objects, and people)."
+      "summary": "We propose an image semantic representation method that helps to understand the discrimination of Representative Images (RI) from Non-representative Images (NRI). Our method, called Event Semantic Space (ESS), generates a low-dimensional image representation by exploiting the semantics of some images with high representativeness and some representative components of the events (e.g., places, objects, and people)."
     }
   ],
   "skills": [
@@ -216,7 +172,7 @@
     },
     {
       "language": "French",
-      "fluency": "Intermadiate",
+      "fluency": "Intermediate",
       "icon": ""
     },
      {
