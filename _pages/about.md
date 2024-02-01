@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://siteigm.univ-mlv.fr/'>LIGM - Université Gustave Eiffel</a>.<a href='https://www.lre.epita.fr/'>LRE - EPITA</a>. <!---Address. Contacts. Moto. Etc.-->
 
 profile:
   align: right
