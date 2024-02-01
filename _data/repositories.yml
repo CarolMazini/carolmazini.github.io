@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - carolmazini
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - carolmazini/unsupervised-IVC
+  - carolmazini/Manifold-Learning-for-Real-World-Event-Understanding
+
