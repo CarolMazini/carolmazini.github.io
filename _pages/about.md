@@ -29,6 +29,6 @@ I'm a PhD student associated with the LIGM and LRE laboratories. My research pri
 
 I am specially intrigued about the <b>cognitive aspects</b> of machine learning and how it can be compared to human learning.
 
-I earned my master's degree from the <a href='https://ic.unicamp.br/en/'>Institute of Computing (Unicamp)</a>, where my focus was on machine learning applied to image analysis in forensics.
+I received my master's degree from the <a href='https://ic.unicamp.br/en/'>Institute of Computing (Unicamp)</a>, where my focus was on machine learning applied to image analysis in forensics.
 
 Beyond the computer science domain, I'm also interested in studying language  mechanisms, including <b>semantics</b> and <b>semiotics</b>. I strongly believe they can inspire us to understand even artificial models.
