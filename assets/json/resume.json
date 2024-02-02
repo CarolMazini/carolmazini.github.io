@@ -233,11 +233,21 @@
     }
   ],
 "teaching": [
+{
+      "institution": "Université Gustave Eiffel",
+      "location": "France",
+      "url": "",
+      "area": "Master (Teaching assistant)",
+      "studyType": "Image Processing",
+      "startDate": "2024",
+      "endDate": "",
+      "score": ""
+    },
     {
       "institution": "Université Gustave Eiffel",
       "location": "France",
       "url": "",
-      "area": "Bachelor degree (Teaching assistant)",
+      "area": "Bachelor (Teaching assistant)",
       "studyType": "Algorithms and Programming",
       "startDate": "2023",
       "endDate": "",
@@ -250,7 +260,7 @@
       "area": "Bachelor (Teaching assistant)",
       "studyType": "C Programming",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2023",
       "score": ""
     },
     {
@@ -260,7 +270,7 @@
       "area": "Bachelor (Teaching assistant)",
       "studyType": "Databases",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2023",
       "score": ""
     },
     {
@@ -269,8 +279,8 @@
       "url": "",
       "area": "Master (Teaching assistant)",
       "studyType": "Python for Big Data",
-      "startDate": "2023",
-      "endDate": "",
+      "startDate": "2022",
+      "endDate": "2023",
       "score": ""
     },
 {
