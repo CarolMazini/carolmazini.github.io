@@ -78,7 +78,6 @@ layout: default
           {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
 	  {% if data[0] == 'teaching2' %} 
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             <div>
                   {% include resume/education.liquid %}
 
