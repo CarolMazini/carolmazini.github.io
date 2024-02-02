@@ -465,10 +465,4 @@ jsonresume:
   - languages
   - interests
   - references
-
-jekyll_get_json:
-  - data: teaching
-    json: assets/json/teaching.json # it can also be an url
-jsonresume:
-  - education2
-  - work2
+  - teaching
