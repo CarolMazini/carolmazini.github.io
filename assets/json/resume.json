@@ -232,7 +232,34 @@
       "reference": "IC - Unicamp (MSc supervisor)"
     }
   ],
-"teaching": [
+
+  "teaching": [
+    {
+      "name": "Teaching assistant",
+      "position": "Université Gustave Eiffel",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Image Processing (Master)", "Algorithms and Programming (Bachelor)", "C Programming (Bachelor)", "Databases (Bachelor)"]
+    },
+{
+      "name": "Teaching assistant",
+      "position": "EPITA - École d'Ingénieurs en Informatique",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": ["Python for Big Data (Master)", "Introduction to Neural Networks (Master)", "Mathematics of the signal (Master)", "Rational Languages Theory (Bachelor)","Algorithms Complexity (Bachelor)"]
+    },
+{
+      "name": "Teaching assistant",
+      "position": "Unicamp",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": ["Complex data mining regarding information retrieval learning (Specialization)", "Complex data mining regarding supervised learning (Specialization)", "Complex data mining regarding unsupervised learning (Specialization)", "Algorithms and computer programming (Bachelor)"]
+    }
+  ],
+"teaching2": [
 {
       "institution": "Université Gustave Eiffel",
       "location": "France",
