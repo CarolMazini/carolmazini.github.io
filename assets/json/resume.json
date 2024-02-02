@@ -234,33 +234,133 @@
   ],
 "teaching": [
     {
-      "institution": "ESIEE Paris (Université Gustave Eiffel)",
+      "institution": "Université Gustave Eiffel",
       "location": "France",
-      "url": "https://www.esiee.fr/",
-      "area": "Explainable Artificial Intelligence",
-      "studyType": "PhD",
-      "startDate": "2020",
+      "url": "",
+      "area": "Bachelor degree (Teaching assistant)",
+      "studyType": "Algorithms and Programming",
+      "startDate": "2023",
       "endDate": "",
       "score": ""
     },
     {
-      "institution": "Universidade Estadual de Campinas (Unicamp)",
+      "institution": "Université Gustave Eiffel",
+      "location": "France",
+      "url": "",
+      "area": "Bachelor (Teaching assistant)",
+      "studyType": "C Programming",
+      "startDate": "2023",
+      "endDate": "",
+      "score": ""
+    },
+    {
+      "institution": "Université Gustave Eiffel",
+      "location": "France",
+      "url": "",
+      "area": "Bachelor (Teaching assistant)",
+      "studyType": "Databases",
+      "startDate": "2023",
+      "endDate": "",
+      "score": ""
+    },
+    {
+      "institution": "EPITA - École d'Ingénieurs en Informatique",
+      "location": "France",
+      "url": "",
+      "area": "Master (Teaching assistant)",
+      "studyType": "Python for Big Data",
+      "startDate": "2023",
+      "endDate": "",
+      "score": ""
+    },
+{
+      "institution": "EPITA - École d'Ingénieurs en Informatique",
+      "location": "France",
+      "url": "",
+      "area": "Master (Teaching assistant)",
+      "studyType": "Introduction to Neural Networks",
+      "startDate": "2022",
+      "endDate": "2023",
+      "score": ""
+    },
+{
+      "institution": "EPITA - École d'Ingénieurs en Informatique",
+      "location": "France",
+      "url": "",
+      "area": "Master (Teaching assistant)",
+      "studyType": "Introduction to Neural Networks",
+      "startDate": "2022",
+      "endDate": "2023",
+      "score": ""
+    },
+{
+      "institution": "EPITA - École d'Ingénieurs en Informatique",
+      "location": "France",
+      "url": "",
+      "area": "Master (Teaching assistant)",
+      "studyType": "Mathematics of the signal",
+      "startDate": "2021",
+      "endDate": "2022",
+      "score": ""
+    },
+{
+      "institution": "EPITA - École d'Ingénieurs en Informatique",
+      "location": "France",
+      "url": "",
+      "area": "Bachelor (Teaching assistant)",
+      "studyType": "Rational Languages Theory",
+      "startDate": "2021",
+      "endDate": "2022",
+      "score": ""
+    },
+{
+      "institution": "EPITA - École d'Ingénieurs en Informatique",
+      "location": "France",
+      "url": "",
+      "area": "Bachelor (Teaching assistant)",
+      "studyType": "Algorithms Complexity",
+      "startDate": "2021",
+      "endDate": "2021",
+      "score": ""
+    },
+{
+      "institution": "Unicamp",
       "location": "Brazil",
-      "url": "https://ic.unicamp.br/en/",
-      "area": "Machine Learning",
-      "studyType": "MSc",
-      "startDate": "2018",
+      "url": "",
+      "area": "Data mining specialization (lato sensu - Teaching assistant)",
+      "studyType": "Complex data mining regarding information retrieval learning",
+      "startDate": "2019",
       "endDate": "2020",
       "score": ""
     },
 {
-      "institution": "Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)",
+      "institution": "Unicamp",
       "location": "Brazil",
-      "url": "https://www.fct.unesp.br/",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2013",
-      "endDate": "2017",
+      "url": "",
+      "area": "Data mining specialization (lato sensu - Teaching assistant)",
+      "studyType": "Complex data mining regarding supervised learning",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": ""
+    },
+{
+      "institution": "Unicamp",
+      "location": "Brazil",
+      "url": "",
+      "area": "Data mining specialization (lato sensu - Teaching assistant)",
+      "studyType": "Complex data mining regarding unsupervised learning",
+      "startDate": "2019",
+      "endDate": "2020",
+      "score": ""
+    },
+{
+      "institution": "Unicamp",
+      "location": "Brazil",
+      "url": "",
+      "area": "Bachelor (Teaching assistant)",
+      "studyType": "Algorithms and computer programming",
+      "startDate": "2019",
+      "endDate": "2019",
       "score": ""
     }
   ]
