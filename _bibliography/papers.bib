@@ -4,6 +4,25 @@
 @string{aps = {American Physical Society,}}
 
 
+@article{rodrigues:2024:HAL,
+abbr={HAL},
+bibtex_show={true},
+selected={true},
+preview={reasoning_trees.png},
+  title={Reasoning with trees: interpreting CNNs using
+hierarchies},
+  author={Rodrigues, Caroline Mazini and Boutry, Nicolas and Najman, Laurent},
+  journal={HAL},
+  pages={},
+  year={2024},
+  volume={},
+  publisher={},
+ doi = {},
+ html={https://hal.science/hal-04614933},
+ pdf={xaitree.pdf},
+abstract = {Challenges persist in providing interpretable explanations for neural network reasoning in explainable AI (xAI). Existing methods like Integrated Gradients produce noisy maps, and LIME, while intuitive, may deviate from the model’s reasoning. We introduce a framework that uses hierarchical segmentation techniques for faithful and interpretable explanations of Convolutional Neural Networks (CNNs). Our method constructs model-based hierarchical segmentations that maintain the model’s reasoning fidelity and allows both human-centric and model-centric segmentation. This approach offers multiscale explanations, aiding bias identification and enhancing understanding of neural network decision-making. Experiments show that our framework, xAiTrees, delivers highly interpretable and faithful model explanations, not only surpassing traditional xAI methods but shedding new light on a novel approach to enhancing xAI interpretability. Code at: https://github.com/CarolMazini/reasoning_with_trees.}
+}
+
 
 @article{rodrigues:2024:if,
 abbr={InfoSciences},
@@ -23,19 +42,19 @@ preview={ms_iv.png},
 abstract = {Providing interpretability of deep-learning models to non-experts, while fundamental for a responsible real-world usage, is challenging. Attribution maps from xAI techniques, such as Integrated Gradients, are a typical example of a visualization technique containing a high level of information, but with difficult interpretation. In this paper, we propose two methods, Maximum Activation Groups Extraction (MAGE) and Multiscale Interpretable Visualization (Ms-IV), to explain the model's decision, enhancing global interpretability. MAGE finds, for a given CNN, combinations of features which, globally, form a semantic meaning, that we call concepts. We group these similar feature patterns by clustering in “concepts”, that we visualize through Ms-IV. This last method is inspired by Occlusion and Sensitivity analysis (incorporating causality) and uses a novel metric, called Class-aware Order Correlation (CAOC), to globally evaluate the most important image regions according to the model's decision space. We compare our approach to xAI methods such as LIME and Integrated Gradients. Experimental results evince the Ms-IV higher localization and faithfulness values. Finally, qualitative evaluation of combined MAGE and Ms-IV demonstrates humans' ability to agree, based on the visualization, with the decision of clusters' concepts; and, to detect, among a given set of networks, the existence of bias.}
 }
 
-@article{rodrigues:2024:arxiv,
-abbr={Arxiv},
+@article{rodrigues:2024:PRL,
+abbr={PRL},
 bibtex_show={true}, 
 selected={true}, 
 preview={ex_convex.png},
 title={Transforming gradient-based techniques into interpretable methods},
   author={Rodrigues, Caroline Mazini and Boutry, Nicolas and Najman, Laurent},
-  journal={ArXiv},
+  journal={Pattern Recognition Letters},
   pages={},
   year={2024},
   publisher={},
-doi={arXiv:2401.14434},
- html={https://arxiv.org/abs/2401.14434},
+doi={10.1016/j.patrec.2024.06.006},
+ html={https://www.sciencedirect.com/science/article/abs/pii/S0167865524001764?via%3Dihub},
  pdf={gad.pdf},
 abstract={The explication of Convolutional Neural Networks (CNN) through xAI techniques often poses challenges in interpretation. The inherent complexity of input features, notably pixels extracted from images, engenders complex correlations. Gradient-based methodologies, exemplified by Integrated Gradients (IG), effectively demonstrate the significance of these features. Nevertheless, the conversion of these explanations into images frequently yields considerable noise. Presently, we introduce GAD (Gradient Artificial Distancing) as a supportive framework for gradient-based techniques. Its primary objective is to accentuate influential regions by establishing distinctions between classes. The essence of GAD is to limit the scope of analysis during visualization and, consequently reduce image noise. Empirical investigations involving occluded images have demonstrated that the identified regions through this methodology indeed play a pivotal role in facilitating class differentiation.}
 }
