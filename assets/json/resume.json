@@ -116,6 +116,13 @@
   ],
   "publications": [
     {
+      "name": "Reasoning with trees: interpreting CNNs using hierarchies",
+      "publisher": "HAL",
+      "releaseDate": "2024",
+      "url": "https://hal.science/hal-04614933",
+      "summary": "In this paper, we propose a framework to construct model-based hierarchical segmentations that maintain the model's reasoning fidelity and allows both human-centric and model-centric segmentation. This approach offers multiscale explanations, aiding bias identification and enhancing understanding of neural network decision-making. Experiments show that our framework, xAiTrees, delivers highly interpretable and faithful model explanations, not only surpassing traditional xAI methods but shedding new light on a novel approach to enhancing xAI interpretability."
+    },
+    {
       "name": "Unsupervised discovery of Interpretable Visual Concepts",
       "publisher": "Elsevier",
       "releaseDate": "2024",
@@ -124,14 +131,14 @@
     },
     {
       "name": "Transforming gradient-based techniques into interpretable methods",
-      "publisher": "Arxiv",
+      "publisher": "Pattern Recogniton Letters",
       "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2401.14434",
+      "url": "https://doi.org/10.1016/j.patrec.2024.06.006",
       "summary": "We introduce GAD (Gradient Artificial Distancing) as a supportive framework for gradient-based explainable techniques. Its primary objective is to accentuate influential regions by establishing distinctions between classes. The essence of GAD is to limit the scope of analysis during visualization and, consequently reduce image noise."
     },
     {
       "name": "Bridging Human Concepts and Computer Vision for Explainable Face Verification",
-      "publisher": "HAL",
+      "publisher": "Workshop at AI*IA",
       "releaseDate": "2024",
       "url": "https://hal.science/hal-04416562",
       "summary": "In this paper, we present an approach to combine computer and human vision to increase the explanation's interpretability of a face verification algorithm. In particular, we are inspired by the human perceptual process to understand how machines perceive face's human-semantic areas during face comparison tasks."
