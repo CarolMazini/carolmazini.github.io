@@ -117,21 +117,21 @@
   "publications": [
     {
       "name": "Reasoning with trees: interpreting CNNs using hierarchies",
-      "publisher": "HAL",
+      "publisher": "Arxiv",
       "releaseDate": "2024",
       "url": "https://hal.science/hal-04614933",
       "summary": "In this paper, we propose a framework to construct model-based hierarchical segmentations that maintain the model's reasoning fidelity and allows both human-centric and model-centric segmentation. This approach offers multiscale explanations, aiding bias identification and enhancing understanding of neural network decision-making. Experiments show that our framework, xAiTrees, delivers highly interpretable and faithful model explanations, not only surpassing traditional xAI methods but shedding new light on a novel approach to enhancing xAI interpretability."
     },
     {
       "name": "Unsupervised discovery of Interpretable Visual Concepts",
-      "publisher": "Elsevier",
+      "publisher": "Information Sciences - Elsevier",
       "releaseDate": "2024",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0020025524000720",
       "summary": " In this paper, we propose two methods, Maximum Activation Groups Extraction (MAGE) and Multiscale Interpretable Visualization (Ms-IV), to explain the model's decision, enhancing global interpretability. MAGE finds, for a given CNN, combinations of features which, globally, form a semantic meaning, that we call concepts."
     },
     {
       "name": "Transforming gradient-based techniques into interpretable methods",
-      "publisher": "Pattern Recogniton Letters",
+      "publisher": "Pattern Recogniton Letters - Elsevier",
       "releaseDate": "2024",
       "url": "https://doi.org/10.1016/j.patrec.2024.06.006",
       "summary": "We introduce GAD (Gradient Artificial Distancing) as a supportive framework for gradient-based explainable techniques. Its primary objective is to accentuate influential regions by establishing distinctions between classes. The essence of GAD is to limit the scope of analysis during visualization and, consequently reduce image noise."
@@ -145,7 +145,7 @@
     },
      {
       "name": "Manifold Learning for Real-World Event Understanding",
-      "publisher": "IEEE",
+      "publisher": "IEEE Transactions on Information Forensics and Security",
       "releaseDate": "2021",
       "url": "https://ieeexplore.ieee.org/abstract/document/9393928",
       "summary": "We extend upon our prior work and present a learning-from-data method for dynamically learning the contribution of different components for a more effective event representation. The method relies upon just a few training samples (few-shot learning), which can be easily provided by an investigator."
@@ -153,7 +153,7 @@
 
  {
       "name": "Forensic Event Analysis: From Seemingly Unrelated Data to Understanding",
-      "publisher": "IEEE",
+      "publisher": "IEEE Security & Privacy",
       "releaseDate": "2020",
       "url": "https://ieeexplore.ieee.org/abstract/document/9134384",
       "summary": "We discuss the problem of restructuring visual data from different heterogeneous sources to analyze an event of interest. We present X-coherence: a pipeline seeking to organize and represent pieces of data, tying them coherently with the real world and with one another. We also outline research challenges while seeking X-coherence."
@@ -161,7 +161,7 @@
 
  {
       "name": "Image Semantic Representation for Event Understanding",
-      "publisher": "IEEE",
+      "publisher": "IEEE IEEE International Workshop on Information Forensics and Security",
       "releaseDate": "2019",
       "url": "https://ieeexplore.ieee.org/abstract/document/9035102",
       "summary": "We propose an image semantic representation method that helps to understand the discrimination of Representative Images (RI) from Non-representative Images (NRI). Our method, called Event Semantic Space (ESS), generates a low-dimensional image representation by exploiting the semantics of some images with high representativeness and some representative components of the events (e.g., places, objects, and people)."
