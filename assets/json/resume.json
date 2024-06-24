@@ -161,7 +161,7 @@
 
  {
       "name": "Image Semantic Representation for Event Understanding",
-      "publisher": "IEEE IEEE International Workshop on Information Forensics and Security",
+      "publisher": "IEEE International Workshop on Information Forensics and Security",
       "releaseDate": "2019",
       "url": "https://ieeexplore.ieee.org/abstract/document/9035102",
       "summary": "We propose an image semantic representation method that helps to understand the discrimination of Representative Images (RI) from Non-representative Images (NRI). Our method, called Event Semantic Space (ESS), generates a low-dimensional image representation by exploiting the semantics of some images with high representativeness and some representative components of the events (e.g., places, objects, and people)."
