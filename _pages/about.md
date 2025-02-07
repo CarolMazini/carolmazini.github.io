@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://siteigm.univ-mlv.fr/'>LIGM - Université Gustave Eiffel</a> -- <a href='https://www.lre.epita.fr/'>LRE - EPITA</a> <!---Address. Contacts. Moto. Etc.-->
+subtitle: <a href='https://www.irisa.fr/'>IRISA</a> -- <a href='https://www.cnrs.fr/fr'>CNRS</a> <!---Address. Contacts. Moto. Etc.-->
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ESIEE Paris</p>
-    <p>Cité Descartes, 2 Bd Blaise Pascal</p>
-    <p>93160 Noisy-le-Grand</p>
+    <p>IRISA</p>
+    <p>263 Av. Général Leclerc</p>
+    <p>35000 Rennes</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
