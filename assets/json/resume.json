@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Caroline Mazini Rodrigues",
-    "label": "PhD student",
+    "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "caroline.mazinirodrigues@esiee.fr",
+    "email": "caroline.mazini-rodrigues@irisa.fr",
     "phone": "",
     "url": "https://carolmazini.github.io/",
-    "summary": "Caroline is a PhD student of ESIEE Paris and EPITA being a member of the laboratories LIGM and LRE. She works with explicability of Deep Neural Networks.",
+    "summary": "Caroline is a Postdoctoral Researcher at IRISA. She works with explicability of Deep Neural Networks and low-complexity algorithms.",
     "location": {
-      "address": "Cité Descartes, 2 Bd Blaise Pascal",
-      "postalCode": "93160",
-      "city": "Noisy-le-Grand",
+      "address": "263 Av. Général Leclerc",
+      "postalCode": "35000",
+      "city": "Rennes",
       "countryCode": "FR",
-      "region": "Ile-de-France"
+      "region": "Ille-et-Vilaine"
     },
     "profiles": [
       {
@@ -23,11 +23,19 @@
     ]
   },
   "work": [
+	  {
+      "name": "IRISA -- CNRS",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Research"]
+    },
     {
       "name": "Université Gustave Eiffel",
       "position": "Attaché temporaire d'enseignement et de recherche (ATER)",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2024",
       "summary": "",
       "highlights": ["Teaching"]
     },
@@ -50,7 +58,7 @@
       "area": "Explainable Artificial Intelligence",
       "studyType": "PhD",
       "startDate": "2020",
-      "endDate": "",
+      "endDate": "2024",
       "score": ""
     },
     {
