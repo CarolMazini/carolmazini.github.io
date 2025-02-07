@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 
 # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.) -->
 
-I'm a PhD student associated with the LIGM and LRE laboratories. My research primarily focuses on understanding the reasoning processes of <b>Deep Neural Networks</b>, a field commonly referred to as <b>explainable Artificial Intelligence (xAI)</b>. I am particularly interested in the challenge of presenting these complex explanations in a way that is easily interpretable for humans.
+I am a postdoctoral researcher at IRISA, focusing on developing low-complexity algorithms for video compression networks to create simpler and interpretable models. I received my PhD from Université Gustave Eiffel, where I worked in the LIGM and LRE laboratories. My research primarily focused on understanding the reasoning processes of Deep Neural Networks, a field commonly referred to as <b>explainable Artificial Intelligence (xAI)</b>. I am particularly interested in the challenge of presenting these complex explanations in a way that is easily interpretable for humans.
 
 I am specially intrigued about the <b>cognitive aspects</b> of machine learning and how it can be compared to human learning.
 
